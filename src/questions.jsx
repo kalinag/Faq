@@ -7,7 +7,7 @@ import Faq from './Faq';
             id:0,
             question: 'Question 1',
             answer: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-            open:true
+            open:false
         },
         {
             id:1,
